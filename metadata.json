@@ -1,0 +1,6 @@
+{
+  "name": "LinkX Remote Pro",
+  "description": "Professional remote control suite and Windows Desktop application protocol for remote mouse, keyboard, media, system power, and desktop receiver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
